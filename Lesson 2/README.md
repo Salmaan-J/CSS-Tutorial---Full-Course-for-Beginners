@@ -9,8 +9,14 @@ My goal is to use this free course to get better understanding of web world and 
 <h2>Lesson 2:</h2>
 <p>
 Introduction to :
-<ui>  
-<li></li>
+<ul>  
+<li>Selectors</li>
+<li>ID Selectors</li>
+<li>Universal class</li>
+<li>Understading css flow of reading and difference between class and element selectors </li>
+<li>Specificity calculator</li>
+
 
 </ul>
+Notes dont be lazy
 </p>

@@ -1,5 +1,10 @@
+/*{ 
+    font-family: monospace;
+    border: 1px solid red;
+}/*this is a universal approach can be used as a reset of sorts. Will be covered in future lessons*/
 body{
     font-size: 22px;
+    border: 3px solid black ;
 }
 p{
     color: purple;
@@ -7,3 +12,23 @@ p{
 .grey{
     color: grey;
 }
+#second{/*rarly used. not recommended ratehr use another method*/
+    font-style: italic;
+}
+h1, h2{/* if h1 h2 are without the comma then it will be looking for an h2 in an h1 wrapping hence not working*/
+ color:blue
+}
+p span{/* better to use class instead of span see below class highlight*/
+    text-transform: uppercase;
+    background-color: gold;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: red;
+
+}
+/*
+main element should appear onces
+!important - indicates poor code and DONT USE IT
+
+*/
