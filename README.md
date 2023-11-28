@@ -8,4 +8,5 @@ My goal is to use this free course to get better understanding of web world and 
 <li>Lesson 1: Intro of HTML and CSS </li>
 <li>Lesson 2: Selectors</li>
 <li>Lesson 3 Colours</li>
+<li>Lesson 4 Units and Sizes</li>
 </ul>
