@@ -1,0 +1,32 @@
+/*reset using css reset usefull to get rid of browser reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: double red;
+    padding: 1.5rem;
+    margin: 1.5em;
+    /* shorthand for the below margin:top right&left bottom; can also be margin: top right left bottom */
+    /* margin-top: 1.5em;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 1.5em; */
+    font-size: 1.5rema;
+    outline: 5px solid purple;
+    outline-offset: 5px;
+}
+
+.circle{
+    margin: 3rem auto;
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 2px solid #0000;
+    outline: 2px solid red;
+    outline-offset: 0.25rem;
+
+}
