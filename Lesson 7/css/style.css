@@ -6,17 +6,16 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 a{
-text-decoration: none;
-cursor:pointer;
-color: blue;
+color: black;
 
 }
 /* sudo class can overide each other Must be in this order*/
 a:visited{
      color: purple;
 }
-a:hover{
+a:hover,a:focus{
     color: dodgerblue;
+    background-color: grey;
 }
 a:active{
     color: red;
