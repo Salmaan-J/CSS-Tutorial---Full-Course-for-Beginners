@@ -1,0 +1,21 @@
+body{
+    padding: 10%;
+    font-size: 2rem;
+}
+/* input,button{
+    font: inherit;
+} */
+
+p{
+    /* text-transform: uppercase; */
+    /* text-align: justify; */
+   /*  text-indent: 2em; */
+    /* text-align: left; */
+    line-height: 1.5;
+    /* letter-spacing: 0.1em; */
+    /* word-spacing: 2em; */
+    /* font-weight: bolder; */
+   /*  font-style: normal; */
+   font-family: 'Arial', Courier, monospace;/*web safe fonts*/
+   /* letter-spacing: 0.1rem; */
+}
